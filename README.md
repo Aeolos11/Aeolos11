@@ -22,9 +22,7 @@ I designed and defended an interactive educational portal (file-sharing platform
 
 A full-stack test case & bug tracker, built as a combined SWE/QA portfolio project.
 
-- **Done:** Node.js/Express REST API with MongoDB (Mongoose), JWT authentication, project and test case management with role-based access checks, all endpoints manually tested in Postman
-- **In progress / planned:** React frontend, Playwright E2E tests, Docker, CI
-
+- **Done:** Node.js/Express REST API with MongoDB (Mongoose), JWT authentication, project and test case management with role-based access checks, all endpoints manually tested in Postman,React frontend, Playwright E2E tests, Docker, CI
 [Repository](https://github.com/Aeolos11/Test-Case-Bug-Tracker)
 
 **Languages and Tools:**
